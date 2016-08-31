@@ -629,7 +629,8 @@ hr {
 
   h1.title {
     font-size: 27px;
-    margin-top: 15px; }
+    margin-top: 15px;
+    text-align: center; }
 
   .container {
     width: 280px;
